@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+
+[packages]
+flask = "*"
+python-dotenv = "*"
+authlib = "*"
+flask-restplus = "*"
+werkzeug = "==0.16.1"
+simplejson = "*"
+flask-injector = "*"
+attrs = "*"
+cattrs = "*"
+
+[requires]
+python_version = "3"
