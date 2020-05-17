@@ -59,13 +59,14 @@ Start App
 
 Sample API request
 
-http://localhost:5000/profile/v1/member/111/
+- http://localhost:5000/profile/v1/member/111/
 
 
 API Documentation
 
-http://localhost:5000/account/v1/doc/
-http://localhost:5000/profile/v1/doc/
+- http://localhost:5000/account/v1/doc/
+
+- http://localhost:5000/profile/v1/doc/
 
 
 ## TODO Items for POC
