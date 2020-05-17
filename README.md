@@ -58,15 +58,15 @@ Start App
 ```
 
 Sample API request
-```
+
 http://localhost:5000/profile/v1/member/111/
-```
+
 
 API Documentation
-```
+
 http://localhost:5000/account/v1/doc/
 http://localhost:5000/profile/v1/doc/
-```
+
 
 ## TODO Items for POC
 - [x] Apply Clean Architecture
@@ -92,12 +92,12 @@ http://localhost:5000/profile/v1/doc/
 
 ## Reference
 
-[Flask](https://flask.palletsprojects.com/en/1.1.x/)
-[Flask RESTPlus](https://flask-restplus.readthedocs.io/en/stable/)
-[Injector](https://github.com/alecthomas/injector)
-[Flask Injector](https://github.com/alecthomas/flask_injector)
-[attrs](https://www.attrs.org/en/stable/)
-[cattrs](https://github.com/Tinche/cattrs)
-[Authlib](https://docs.authlib.org/en/latest/)
-[marshmallow](https://marshmallow.readthedocs.io/en/stable/)
-[SQLAlchemy](https://www.sqlalchemy.org/)
+- [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+- [Flask RESTPlus](https://flask-restplus.readthedocs.io/en/stable/)
+- [Injector](https://github.com/alecthomas/injector)
+- [Flask Injector](https://github.com/alecthomas/flask_injector)
+- [attrs](https://www.attrs.org/en/stable/)
+- [cattrs](https://github.com/Tinche/cattrs)
+- [Authlib](https://docs.authlib.org/en/latest/)
+- [marshmallow](https://marshmallow.readthedocs.io/en/stable/)
+- [SQLAlchemy](https://www.sqlalchemy.org/)
